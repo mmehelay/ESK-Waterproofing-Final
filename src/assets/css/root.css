@@ -697,7 +697,7 @@ html {
   }
   #cs-navigation .cs-li-link.cs-drop-link:hover {
     color: var(--primary);
-    background-color: #f7f7f7;
+    background-color: black;
   }
   #cs-navigation .cs-li-link.cs-drop-link:before {
     display: none;
