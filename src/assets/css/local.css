@@ -474,7 +474,7 @@
     bottom: -0.625rem;
   }
   #gallery-1449 .cs-button.cs-active {
-    color: var(--primary);
+    color: black;
   }
   #gallery-1449 .cs-button.cs-active:before {
     opacity: 1;
